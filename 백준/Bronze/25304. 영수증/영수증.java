@@ -8,7 +8,7 @@ public class Main {
 		int x = sc.nextInt();
 		int n = sc.nextInt();
 		int c = 0;
-		int sum = 0;
+		int total = 0;
 		
 		for(int i=1; i<=n; i++) {
 			for(int j=1; j<2; j++) {
@@ -17,10 +17,10 @@ public class Main {
 				
 				c = a*b;
 			}
-			sum += c;
+			total += c;
 		}
 		
-		if(x == sum) {
+		if(x == total) {
 			System.out.println("Yes");
 		}else {
 			System.out.println("No");
