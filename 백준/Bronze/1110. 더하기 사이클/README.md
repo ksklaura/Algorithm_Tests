@@ -28,3 +28,6 @@
 
  <p>첫째 줄에 N의 사이클 길이를 출력한다.</p>
 
+<br/>
+<br/>
+★ https://st-lab.tistory.com/42 풀이 참조 ★
